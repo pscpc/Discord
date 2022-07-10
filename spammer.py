@@ -4,7 +4,7 @@ import time
 import random
 
 
-channel = "channelid"
+channel = "inputchannelid"
 mess = ["input mess text"]
 delay = 0.1
 with open("tokens.txt", "r") as file:
